@@ -1,3 +1,5 @@
+// https://danielupshaw.com/openscad-rounded-corners/
+
 // Higher definition curves
 $fs = 0.01;
 
